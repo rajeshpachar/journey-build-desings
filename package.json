@@ -1,0 +1,32 @@
+{
+  "name": "ant-design-practice",
+  "version": "1.0.0",
+  "description": "Practicing how to use Ant Design components in React",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "5.22.3",
+    "babel-plugin-import": "1.13.0",
+    "sass": "1.26.3",
+    "@ant-design/icons": "5.5.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "7.0.2",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
